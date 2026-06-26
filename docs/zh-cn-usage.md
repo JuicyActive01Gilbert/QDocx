@@ -207,6 +207,8 @@ if (!result) {
 build/apps/report-studio/Release/qdocx_report_studio.exe
 ```
 
-## 14. 授权限制
+## 14. 许可证
 
-本项目仅供学习、研究和技术交流使用，不可商用。商业使用、二次分发、商业产品集成、商业服务集成均需要获得项目作者授权。
+本项目采用 [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)。
+
+该许可证允许非商业用途下的学习、研究和技术交流。未经授权不得用于商业软件、商业硬件、商业服务、商业分发或其他商业目的。商业使用需要获得项目作者授权。
