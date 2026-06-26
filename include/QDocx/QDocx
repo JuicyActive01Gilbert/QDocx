@@ -1,0 +1,7 @@
+#pragma once
+
+#include <QDocx/qdocxdocument.h>
+#include <QDocx/qdocxglobal.h>
+#include <QDocx/qdocxresult.h>
+#include <QDocx/qdocxstyle.h>
+#include <QDocx/qdocxtable.h>

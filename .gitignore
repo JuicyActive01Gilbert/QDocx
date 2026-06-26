@@ -1,0 +1,23 @@
+# CMake and Visual Studio build output
+build/
+build-*/
+build-new/
+out/
+install-*/
+
+# User-local IDE state
+.vs/
+.vscode/
+CMakeUserPresets.json
+
+# Generated binaries
+*.dll
+*.exe
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# Runtime scratch files
+*.docx
